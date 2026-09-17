@@ -19,7 +19,7 @@ A single Python script that simulates:
 ## Menu Options
 
 ```
-1. CPU Scheduling (FCFS / Round Robin)
+1. CPU Scheduling Algorithms
 2. Banker's Algorithm
 3. Exit
 ```
